@@ -3,6 +3,8 @@
 
 ### 📊 Power BI Dashboard • 🌐 Streamlit AI App • 💬 Power BI Chatbot
 
+> 📝 **This project was developed as part of the Infosys Internship Program.**
+
 This project delivers a **complete hotel revenue analytics ecosystem** by combining the **visual storytelling power of Power BI**, the **predictive intelligence of Streamlit**, and the **conversational capabilities of a Power BI Chatbot**.
 
 Managers and analysts can **explore dashboards**, **predict future trends**, and **ask questions in natural language** — all in one integrated solution.

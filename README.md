@@ -9,9 +9,9 @@ This project delivers a **complete hotel revenue analytics ecosystem** by combin
 
 Managers and analysts can **explore dashboards**, **predict future trends**, and **ask questions in natural language** — all in one integrated solution.
 
-<div align="center">
+<p align="center">
   <img width="1056" height="469" alt="ecosystem" src="https://github.com/user-attachments/assets/c63a90ca-5ed3-4389-bdd3-1f8aee02e738" />
-</div>
+</p>
 
 ---
 
@@ -23,9 +23,9 @@ Managers and analysts can **explore dashboards**, **predict future trends**, and
 | 🌐 **Streamlit AI Dashboard** | Machine learning–powered web app for upsell prediction, cancellation risk, and revenue forecasting.           |
 | 💬 **Power BI Chatbot**       | Natural language interface that allows users to query hotel data directly, powered by Power BI Q&A / Copilot. |
 
-<div align="center">
+<p align="center">
   <img width="720" height="507" alt="keycomponents" src="https://github.com/user-attachments/assets/ee3e464f-95b2-4544-bb1f-8222991f747b" />
-</div>
+</p>
 
 ---
 
@@ -72,9 +72,9 @@ Examples:
 * Automatically generates charts, tables, and metrics based on the question
 * Accessible within the Power BI report or via **Power BI Service chatbot interface**
 
-<div align="center">
+<p align="center">
   <img width="1152" height="564" alt="revenuestrategy" src="https://github.com/user-attachments/assets/59cd2999-098e-4af8-9c7d-ec13dd1bad3f" />
-</div>
+</p>
 
 ---
 
@@ -92,9 +92,9 @@ The `app.py` file provides a **machine learning companion web app**, built with 
 | 📊 **Power BI Embedding**     | View your hosted Power BI Dashboard inside Streamlit                       |
 | 🧠 **Data Upload**            | Bring your own CSV/Excel booking data for instant insights                 |
 
-<div align="center">
+<p align="center">
   <img width="1020" height="683" alt="aidashboardfeatures" src="https://github.com/user-attachments/assets/2e05741d-5695-4915-84b5-c37cf26cd81b" />
-</div>
+</p>
 
 ---
 
@@ -106,9 +106,9 @@ The `app.py` file provides a **machine learning companion web app**, built with 
 * **Plotly** → Dynamic charts
 * **LightGBM** → Demand-based pricing recommendations (visualized in Power BI)
 
-<div align="center">
+<p align="center">
   <img width="912" height="505" alt="techstack" src="https://github.com/user-attachments/assets/b630cd4b-ba7b-4c3b-85ff-5bf1044c2c3d" />
-</div>
+</p>
 
 ---
 
@@ -163,9 +163,9 @@ streamlit run app.py
 3. Explore dashboards, slicers, and Q&A chatbot
 4. Publish to Power BI Service to enable **online chatbot querying** and embedding inside Streamlit
 
-<div align="center">
+<p align="center">
   <img width="936" height="690" alt="settingupproject" src="https://github.com/user-attachments/assets/b7b427e2-c46f-4a97-8c9d-aa7625e9ea88" />
-<div align="center">
+</p>
   
 ---
 

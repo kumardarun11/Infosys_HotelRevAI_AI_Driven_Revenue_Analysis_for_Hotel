@@ -10,6 +10,8 @@ This project delivers a **complete hotel revenue analytics ecosystem** by combin
 Managers and analysts can **explore dashboards**, **predict future trends**, and **ask questions in natural language** — all in one integrated solution.
 
 ---
+<img width="984" height="684" alt="image" src="https://github.com/user-attachments/assets/5c263294-10df-4d77-9672-b9da3a3b1645" />
+
 
 ## 🚀 Key Components
 

@@ -1,4 +1,4 @@
-# 🏨 AI Driven Revenue Analysis for Hotel
+# 🏨 HotelRevAI - AI Driven Revenue Analysis for Hotel
 
 ### 📊 Power BI Dashboard • 🌐 Streamlit AI App • 💬 Power BI Chatbot
 

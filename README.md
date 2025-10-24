@@ -1,4 +1,3 @@
-<img width="936" height="690" alt="settingupproject" src="https://github.com/user-attachments/assets/65aeae27-4915-4b4a-aa16-788534e2605e" />
 # 🏨 AI Driven Revenue Analysis for Hotel
 
 ### 📊 Power BI Dashboard • 🌐 Streamlit AI App • 💬 Power BI Chatbot
